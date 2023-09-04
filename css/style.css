@@ -176,6 +176,7 @@ input[type="text"] {
     line-height: 16px;
     letter-spacing: 0.05em;
     transition: all 0.13s ease 0s;
+    white-space: nowrap;
 }
 .menu__link:hover {
     border-bottom: 1px solid #fff;
